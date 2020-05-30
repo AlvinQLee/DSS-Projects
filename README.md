@@ -1,1 +1,3 @@
-# Students Association for Applied Stastic Projects
+# Students Association for Applied Stastics Projects
+
+Website: https://saas.berkeley.edu/
