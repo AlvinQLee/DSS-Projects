@@ -1,1 +1,1 @@
-# DSS-Projects
+# Students Association for Applied Stastic Projects
